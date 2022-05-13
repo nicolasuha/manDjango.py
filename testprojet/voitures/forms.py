@@ -11,6 +11,6 @@ class AutomobileForm(ModelForm):
             'model' : _('model') ,
             'date_commercialisation' : _('date_commercialisation'),
             'motorisation' : _('motorisation'),
-            'transmission' : _('transmission')
-            'boite_de_vitesse': _('boite_de_vitesse')
+            'transmission' : _('transmission'),
+            'boite_de_vitesse': _('boite_de_vitesse'),
             }
